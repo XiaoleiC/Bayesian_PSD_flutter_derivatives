@@ -11,7 +11,7 @@ Please refer to our papar [Chu et al. (2022)](https://doi.org/10.1016/j.ymssp.20
 ## Usage
 
 ### Input structural parameters
-[paper](cuiwei0322.github.com/cuiwei0322/Bayesian_PSD_flutter_derivatives/readmeFigures/structure.bmp)
+[structure](cuiwei0322.github.com/cuiwei0322/Bayesian_PSD_flutter_derivatives/readmeFigures/structure.bmp)
 
 ### Input wind field parameters (Only mean wind speed currently)
 [windField](cuiwei0322.github.com/cuiwei0322/Bayesian_PSD_flutter_derivatives/readmeFigures/windField.bmp)
