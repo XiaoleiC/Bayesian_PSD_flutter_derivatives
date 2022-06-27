@@ -2,7 +2,7 @@
 Matlab code for Bayesian PSD identification of flutter derivatives operated in turbulent flow
 
 ## Installation
-Please copy the whole package under MATLAB platform. 
+Please copy the whole package under MATLAB platform. "Bayesian_PSD.m" is the main function. For the purpose of illustration, people can run the main function directly.
 
 ## Theoretical Background
 Please refer to our papar [Chu et al. (2022)](https://doi.org/10.1016/j.ymssp.2021.108782)
